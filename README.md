@@ -20,6 +20,9 @@ Epic | 毕业纪念App |
 * 对于以前的相片记忆模糊，可能已经想不起来是为什么而拍的了
 * 回看相片时可能会忘了某个人的名字
 
+## App产品原型设计
+![首页](https://github.com/SunnyHe1999/smart_graduation_APP/blob/master/image/%E9%A6%96%E9%A1%B5.png)
+
 ## 功能简介
 * 留言板：可以给不同的同学留言，可以写上自己的祝福或聚会的邀请
 
